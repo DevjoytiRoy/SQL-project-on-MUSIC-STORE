@@ -7,7 +7,11 @@ The database architecture is structured to enable efficient querying and retriev
 Key features of this database include:
 
 Artist Information: Details about artists such as name, nationality, and genre.
+
 Albums and Tracks: Comprehensive data on albums, including their titles, release dates, and associated tracks with their durations and genres.
+
 Customer Records: Information about customers, their profiles, purchase history, and preferences.
+
 Sales Transactions: Records of sales, including date, customer ID, purchased items, and transaction details.
+
 Inventory Management: Tracking the availability, quantity, and pricing of items in the store.
